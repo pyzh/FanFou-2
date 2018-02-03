@@ -1,4 +1,5 @@
 # FanFou
+logo font: https://www.fonts.com/font/dalton-maag/verveine
 Milestone 1:
 
 	User Stories 1:
