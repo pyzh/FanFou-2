@@ -1,0 +1,209 @@
+*{
+	margin: 0px;
+	padding:0px;
+	font-family: Arial,Helvetica,Sans-serif;
+	font-size: 12px;
+}
+.header{
+	background-color: #000000;
+	height: 5vh;
+	border-bottom: 0px;
+	padding-left: auto;
+	padding-right: auto;
+	width: 100%;
+}
+#wrapper{
+	background-color: black;
+	width: 90%;
+	height: 38px;
+	float:left;
+	margin-left: 5%;
+	margin-right: 5%;
+}
+#logoWrapper{
+	width: 15%;
+	height: 38px;
+}
+.logo{
+	height: 38px;
+	display:inline;
+	width: auto;
+}
+
+#logoText{
+	height: 38px;
+	width: auto;
+}
+#logoText img{
+	height:38px;
+	width:auto;
+}
+#logoLine img{
+	height: 38px;
+	width:auto;
+}
+#logoImage img{
+	height: 30px;
+	width:auto;
+}
+#functionTitles{
+	display:inline;
+}
+#chats{
+	margin-left: 35%;
+	margin-right: 5%;
+	color: white;
+	height: 38px;
+	font-size: 30px;
+}
+#Meals{
+	margin-left: auto;
+	color: grey;
+	font-size: 25px;
+}
+#centralWrapper{
+	width: 70%;
+	height: 38px;
+}
+#userWrapper{
+	width:15%;
+	height:38px;
+}
+div.inline{
+	float:left;
+}
+#userProfile img{
+	margin-top: 2px;
+	height:28px;
+	float:right;
+}
+#setting img{
+	margin-top: 2px;
+	height: 28px;
+	float:right;
+	margin-right: 5%;
+}
+.main{
+	background-color: steelblue;
+	height:95vh;
+
+}
+.panel{
+	float: left;
+	margin-left: 10%;
+	background-color: lightslategrey;
+	width: 20%;
+	height:95vh;
+}
+.panelHeader{
+	float: top;
+	background-color: dimgray;
+	height: 15%;
+	width: auto;
+}
+.panelHeaderFirst{
+	height: 30%;
+}
+.panelHeaderFirstWrapper{
+	margin-left: 10%;
+	height: 100%;
+	width: 80%;
+	background-color: dimgray;
+}
+.avatar{
+	background-color: darkgray;
+	height: 100%;
+	width: 13%;
+	dispaly:inline;
+	float: left;
+}
+#avatarImg img{
+	margin-top: 5%;
+	margin-left: 15%;
+	height:80%;
+}
+
+.nickname{
+	margin-left: 10%;
+	display:inline;
+	font-size: 25px;
+}
+.info{
+	float: right;
+	height: 100%;
+	width: 60%;
+	background-color: dimgray;
+}
+.chat{
+	float: left;
+	width:60%;
+	background-color: lightgray;
+	height: 95vh;
+}
+#searchBar{
+	margin-top: 5%;
+	width: 100%;
+	height: 20%;
+}
+#searchBox{
+	box-sizing: border-box;
+	height: 100%;
+	margin-left: 10%;
+	width: 80%;
+}
+.tabs{
+	margin-top: 3%;
+	float: left;
+	height: 30%;
+	width: 80%;
+	margin-left: 10%;
+}
+#chatsTab{
+	margin-left: 25%;
+	background-color: gray;
+	width:15%;
+	height: 70%;
+}
+#chatsTab img{
+	height: 100%;
+}
+#friendsTab{
+	margin-left: 25%;
+	background-color: gray;
+	width: 15%;
+	height: 70%;
+}
+#friendsTab img{
+	height:100%;
+}
+.list{
+	height: 80vh;
+}
+.chatHeader{
+	background-color: gray;
+	height: 6%;
+	text-align: center;
+}
+#chatFriendName{
+	font-size: 30px;
+}
+.chatMain{
+	height: 89%;
+	background-color: whitesmoke;
+}
+.chatTypeBox{
+	height: 5%;
+}
+#typeBox{
+	float: left;
+	height: 100%;
+	box-sizing: border-box;
+	width: 90%;
+	font-size: 20px;
+}
+#sendButton{
+	float: left;
+	width: 10%;
+	border: none;
+	height: 100%;
+	border-radius: 8 
