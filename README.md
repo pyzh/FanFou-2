@@ -1,4 +1,4 @@
-# FanFou
+# FunFo
 
 Milestone 1:
 	User Stories 1:
@@ -30,4 +30,7 @@ Milestone 1:
 		
 		Task 1: UI
 		Task 2: Backend
+
+Logo url: http://www.fontspace.com/m%C3%A5ns-greb%C3%A4ck/finition-personal-use-only
+
   
